@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="VISHWANATHDALVI.P4_Exam_Practice"
+  DTS:DTSID="{5C762C87-3367-4E87-BBBB-F8260CE300B5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=VISHWANATHDALVI;Initial Catalog=P4_Exam_Practice;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Package-{5C762C87-3367-4E87-BBBB-F8260CE300B5}VISHWANATHDALVI.P4_Exam_Practice;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
