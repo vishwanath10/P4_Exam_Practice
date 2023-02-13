@@ -7,6 +7,6 @@
     <DTS:ConnectionManager
       DTS:ConnectRetryCount="1"
       DTS:ConnectRetryInterval="5"
-      DTS:ConnectionString="Data Source=VISHWANATHDALVI;Initial Catalog=P4_Exam_Practice;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Package-{5C762C87-3367-4E87-BBBB-F8260CE300B5}VISHWANATHDALVI.P4_Exam_Practice;Auto Translate=False;" />
+      DTS:ConnectionString="Data Source=VISHWANATHDALVI;Initial Catalog=P4_Exam_Practice;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package-{5C762C87-3367-4E87-BBBB-F8260CE300B5}VISHWANATHDALVI.P4_Exam_Practice;" />
   </DTS:ObjectData>
 </DTS:ConnectionManager>
